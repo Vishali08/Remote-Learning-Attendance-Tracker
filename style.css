@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.r1{
+    text-align: center;
+}
+r1c2{
+    padding: 10px;
+}
+.r2c2{
+    padding: 10px;
+}
+.r2c2 button{
+    font-size: 20px;
+    border: transparent;
+    background: transparent;
+    padding-left: 50px;
+    color: black;
+}
+
+.r2c2 button:hover {
+    color: #FF69B4;
+}
+.navi:hover{
+    color: #FF69B4;
+}
